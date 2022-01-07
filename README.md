@@ -16,6 +16,8 @@
 ## Homepage
 🏠 https://github.com/jaivardhan-bhola/Python-Desktop-Timer
 
+## Prerequisites
+See requirements.txt
 
 ## Usage
 
