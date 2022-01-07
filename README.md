@@ -9,6 +9,7 @@
   <a href="https://twitter.com/BholaJaivardhan" target="_blank">
     <img alt="Twitter: BholaJaivardhan" src="https://img.shields.io/twitter/follow/BholaJaivardhan.svg?style=social" />
   </a>
+  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 </p>
 
 > Desktop timer using Python tkinter.
@@ -39,4 +40,4 @@ Copyright © 2022 [Jaivardhan Bhola](https://github.com/jaivardhan-bhola).<br />
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+Made with <span style="color: #e25555;">&hearts;</span> in India
