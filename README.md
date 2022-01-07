@@ -1,4 +1,6 @@
-<h1 align="center">Welcome to Python Desktop Timer 👋</h1>
+<h1 align="center">Welcome to Python Desktop Timer 👋<a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg" /></h1>
+  </a>
 <p>
   <a href="https://github.com/jaivardhan-bhola/Python-Desktop-Timer/tree/main#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
@@ -9,12 +11,11 @@
   <a href="https://twitter.com/BholaJaivardhan" target="_blank">
     <img alt="Twitter: BholaJaivardhan" src="https://img.shields.io/twitter/follow/BholaJaivardhan.svg?style=social" />
   </a>
-  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 </p>
 
-> Desktop timer using Python tkinter.
+## Homepage
+https://github.com/jaivardhan-bhola/Python-Desktop-Timer
 
-### 🏠 [Homepage](https://github.com/jaivardhan-bhola/Python-Desktop-Timer)
 
 ## Usage
 
