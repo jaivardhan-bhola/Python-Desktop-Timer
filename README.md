@@ -14,7 +14,7 @@
 </p>
 
 ## Homepage
-https://github.com/jaivardhan-bhola/Python-Desktop-Timer
+🏠 https://github.com/jaivardhan-bhola/Python-Desktop-Timer
 
 
 ## Usage
