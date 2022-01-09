@@ -43,4 +43,4 @@ Copyright © 2022 [Jaivardhan Bhola](https://github.com/jaivardhan-bhola).<br />
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
 ***
-Made with <span style="color: #e25555;">&hearts;</span> in India
+<div align = "center"><img src="https://madewithlove.now.sh/in?heart=true&colorA=%23505050&colorB=%230096ff&template=for-the-badge&text=India" alt="Made with love in India"></div>
