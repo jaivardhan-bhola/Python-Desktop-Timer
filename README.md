@@ -1,7 +1,8 @@
-<h1 align="center">Welcome to Python Desktop Timer 👋<a href="https://www.python.org/" target="_blank">
+<h1 align="center">Python Desktop Timer
+<p>
+  <a href="https://www.python.org/" target="_blank">
     <img alt="Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg" /></h1>
   </a>
-<p>
   <a href="https://github.com/jaivardhan-bhola/Python-Desktop-Timer/tree/main#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
