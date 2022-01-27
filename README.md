@@ -3,6 +3,9 @@
   <a href="https://www.python.org/" target="_blank">
     <img alt="Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg" /></h1>
   </a>
+  <a href = 'https://code.visualstudio.com/'>
+  <img alt ='Visual Studio Code' src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg'/>
+  </a>
   <a href="https://github.com/jaivardhan-bhola/Python-Desktop-Timer/tree/main#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -13,9 +16,6 @@
     <img alt="Twitter: BholaJaivardhan" src="https://img.shields.io/twitter/follow/BholaJaivardhan.svg?style=social" />
   </a>
 </p>
-
-## Homepage
-🏠 https://github.com/jaivardhan-bhola/Python-Desktop-Timer
 
 ## Prerequisites
 See requirements.txt
